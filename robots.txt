@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accueil.php
+
+Sitemap: https://www.yohan-verdalle.fr/sitemap.xml
